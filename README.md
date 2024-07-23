@@ -1,6 +1,6 @@
 # Dota Responses Telegram Bot
 
-Telegram bot that replies with Dota hero responses to telegram messages.
+Telegram bot that replies with Dota hero responses to messages.
 
 If you want to use it in a group chat you need to give the bot admin rights.
 
